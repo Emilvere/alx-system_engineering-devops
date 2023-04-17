@@ -1,3 +1,1 @@
-#!/bin/bash
-
-echo "Shell redirections"
+0-hello_world
